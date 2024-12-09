@@ -35,8 +35,8 @@ I thrive on solving challenging problems, learning new technologies, and creatin
 ---
 
 ### 🌍 **Connect with Me**  
-- GitHub: [Your GitHub Profile](https://github.com/noah4reals)  
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/YourUsername)  
-- Email: [YourEmail@example.com](mailto:YourEmail@example.com)  
+- GitHub: [YNoah Ali](https://github.com/noah4reals)  
+- LinkedIn: [Noah Ali](https://www.linkedin.com/in/noah4reals/)  
+- Email: [--](#)  
 
 Let's create something amazing together! 💻🚀
