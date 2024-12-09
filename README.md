@@ -10,7 +10,7 @@
 - **Fullstack Web Development**: HTML, CSS, JavaScript, PHP, MySQL, Tailwind CSS, Bootstrap  
 - **Data and AI**: Machine Learning, Deep Learning, Data Analysis  
 - **Embedded Software**: Firmware Development, Microcontrollers, IoT Systems  
-- **Operating Systems**: Linux Power User  
+- **Operating Systems**: Linux. 
 
 ---
 
@@ -24,7 +24,7 @@
 
 ### 🌟 **Current Projects**  
 - **Thesis**: Exploring **Real-Time Deepfake Detection in Live Video Streams**.  
-- Building a **feature-rich ToDo list application** with modern UI/UX.  
+- Building a **feature-rich HMI application With AI driven For Home Doors** with modern UI/UX.  
 - Enhancing a **government news agency website** with optimized designs and functionality.  
 
 ---
