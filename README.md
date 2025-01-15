@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Noah Ali!
 
 🚀 **Software Engineering Student (MSc)**  
 🎯 Passionate about **Data, Artificial Intelligence, Fullstack Development, and Embedded Systems**.  
