@@ -14,14 +14,6 @@
 
 ---
 
-### 💡 **What I Do**  
-- 🌐 Build and design **modern web applications**.  
-- 🤖 Solve complex problems with **AI and data-driven solutions**.  
-- 🔧 Develop **embedded systems** for real-world applications.  
-- 🛠 Explore innovative solutions in **software development and optimization**.  
-
----
-
 ### 🌟 **Current Projects**  
 - **Thesis**: Exploring **Real-Time Deepfake Detection in Live Video Streams**.  
 - Building a **feature-rich HMI application With AI driven For Home Doors** with modern UI/UX.  
